@@ -36,16 +36,16 @@ While building this project, I learned how to:
 
 ## 📂 Folder Structure
 
-calculator-ui/
-├── public/
-├── src/
-│ ├── components/
-│ │ └── ButtonsRow.jsx
-│ │ └── ButtonsRow.module.css
-│ │ └── Calculator.jsx
-│ │ └── InputBox.jsx
-│ ├── App.jsx
-│ ├── index.css
+calculator-ui/<br>
+├── public/<br>
+├── src/<br>
+│ ├── components/<br>
+│ │ └── ButtonsRow.jsx<br>
+│ │ └── ButtonsRow.module.css<br>
+│ │ └── Calculator.jsx<br>
+│ │ └── InputBox.jsx<br>
+│ ├── App.jsx<br>
+│ ├── index.css<br>
 │ ├── main.jsx
 
 
